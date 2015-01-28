@@ -1,8 +1,6 @@
 Angular Tryton
 ==============
 
-[![Build Status](https://travis-ci.org/openlabs/angular-tryton.svg?branch=0.2.0)](https://travis-ci.org/openlabs/angular-tryton)
-
 ![](example/images/ng-tryton-logo.png)
 
 An [AngularJS](https://github.com/angular/angular.js) module that makes tryton JSONRPC
